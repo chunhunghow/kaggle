@@ -1,1 +1,2 @@
-# Colab notebook of the work of kaggle competition
+#
+Colab notebook of the work of kaggle competition
